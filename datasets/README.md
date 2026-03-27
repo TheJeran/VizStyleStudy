@@ -1,5 +1,5 @@
 ### raw_mins_ip.csv
-This is all of the information received when a participant finishes the last vidoe
+This is all of the information received when a participant finishes the last video with the IP field removed 
 
 ### users_scored.csv
 This is processed data.
